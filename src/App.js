@@ -14,7 +14,7 @@ const App = () => {
         <img
           src="https://assets.ccbp.in/frontend/react-js/csk-img.png"
           className="logo-image"
-          alt="pic1"
+          alt="pic_1"
         />
       </div>
     </div>
